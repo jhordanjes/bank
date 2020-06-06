@@ -8,8 +8,6 @@
 
 ## 💻 Projeto
 
-RocketShoes é uma aplicação de compras online. A aplicação Web e a aplicação mobile podem ser usadas pelos usuários que querem efetuarem compras de maneira simples e fácil.
-
 GoFinances é uma aplicação de gestão de transações financeiras de entrada e saída, com a criação de novos dados a partir de arquivos csv. Utilizando Node junto ao typescript no backend e React no <a href="https://github.com/jhordanjes/gofinances">frontend</a>.
 
 ## 🚀 Instalação e execução
