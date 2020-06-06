@@ -2,7 +2,7 @@
   <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
 </h1>
 
-<h3 align="center">Gofinances - Frontend</h3>
+<h3 align="center">Gofinances - Backend</h3>
 
 <p align="center">Código do desafio Bootcamp GoStack 🎓</p>
 
